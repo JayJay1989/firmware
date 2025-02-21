@@ -25,7 +25,7 @@ Sleep
 
 ### Config
 
-https://shop.usetrmnl.com/products/byod, $20 one time fee (subject to change, likely a small subscription in near future)
+https://shop.usetrmnl.com/products/byod, $50 one time fee (subject to change, likely a small subscription in near future)
 https://usetrmnl.com/claim-a-device to create an API only account
 
 Copy the mac address from your account and add it in config.h > DEVICE_MAC
